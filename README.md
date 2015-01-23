@@ -19,12 +19,12 @@ The idea behind these labels is to make it easy to find things that are actually
   * **Ready for PR** - A well defined bug, needs someone to PR a fix.
   * **Needs Code Review** - A PR that needs the code to be verified by someone.
   * **Needs Submitter Response** - Anything that is blocking on the submitter.
+  * **Needs Team Discussion** - Cannot progress until the core team has discussed further.
 * **Categories** - These change per-project, may want to prefix, e.g. "C: HTMLBars". The big thing here is to keep proliferation low. If it gets too high, we might just want to change the issue title instead, e.g. prefix with "[HTMLBars]".
   * **HTMLBars**
   * **Router**
   * ...
 * **Miscellaneous** - These are per project and might be useful for further organization but should be kept to a minimum as well.
-  * **Meeting** - To be discussed at an Ember Core Team meeting. (Is this still necessary if we have good tags in other areas? I suspect so since we may still want to prioritize certain things.)
   * **Good for New Contributors** - What it says on the tin. In theory this helps new people find stuff to work on. (Do we have evidence that people are paying attention to this? If not, it's just noise.)
 
 ## Other Notes
