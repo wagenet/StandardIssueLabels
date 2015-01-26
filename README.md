@@ -11,7 +11,7 @@ The idea behind these labels is to make it easy to find things that are actually
   * **Bug** - Anything that is broken
   * **Regression** - A bug that did not exist in previous versions and isnâ€™t a new feature (applied in tandem with Bug)
   * **Feature** - Anything that involves API changes, should generally only be for PRs or bug reports on in-progress features.
-  * **Performance** - A performance related issue. We could track this as a bug, but usually these would have slightly lower priority that standard bugs.
+  * **Performance** - A performance related issue. We could track this as a bug, but usually these would have slightly lower priority than standard bugs.
   * **Cleanup** - Not a bug, not a feature, just code cleanup.
   * **Documentation** - Self-explanatory.
 * **Blockers** 
