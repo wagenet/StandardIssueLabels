@@ -9,13 +9,13 @@ The idea behind these labels is to make it easy to find things that are actually
 
 * **Issue Types**
   * **Bug** - Anything that is broken
-  * **Regression** - A bug that did not exist in previous versions and isnâ€™t a new feature (applied in tandem with Bug)
+  * **Regression** - A bug that did not exist in previous versions and isn't a new feature (applied in tandem with Bug)
   * **Feature** - Anything that involves API changes, should generally only be for PRs or bug reports on in-progress features.
   * **Performance** - A performance related issue. We could track this as a bug, but usually these would have slightly lower priority than standard bugs.
   * **Cleanup** - Not a bug, not a feature, just code cleanup.
   * **Documentation** - Self-explanatory.
 * **Blockers** 
-  * **Needs Bug Verification** - A bug report, needs verification that itâ€™s actually a bug.
+  * **Needs Bug Verification** - A bug report, needs verification that it's actually a bug.
   * **Ready for PR** - A well defined bug, needs someone to PR a fix.
   * **Needs Code Review** - A PR that needs the code to be verified by someone.
   * **Needs Submitter Response** - Anything that is blocking on the submitter.
