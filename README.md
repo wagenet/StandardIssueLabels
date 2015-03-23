@@ -17,6 +17,7 @@ The idea behind these labels is to make it easy to find things that are actually
 * **Blockers** 
   * **Needs Bug Verification** - A bug report, needs verification that it's actually a bug.
   * **Ready for PR** - A well defined bug, needs someone to PR a fix.
+  * **PR Pending** - A well defined bug, with a PR pending to fix.
   * **Needs Code Review** - A PR that needs the code to be verified by someone.
   * **Needs Submitter Response** - Anything that is blocking on the submitter.
   * **Needs Team Discussion** - Cannot progress until the core team has discussed further.
