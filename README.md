@@ -16,6 +16,8 @@ The idea behind these labels is to make it easy to find things that are actually
   * **Documentation** - Self-explanatory.
 * **Blockers** 
   * **Needs Bug Verification** - A bug report, needs verification that it's actually a bug.
+  * **Needs Reproduction** - Needs a test case or other reproduction of the issue.
+  * **Has Reproduction** - Indicates a test case exists and is up-to-date.
   * **Ready for PR** - A well defined bug, needs someone to PR a fix.
   * **PR Pending** - A well defined bug, with a PR pending to fix.
   * **Needs Code Review** - A PR that needs the code to be verified by someone.
