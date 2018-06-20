@@ -28,7 +28,7 @@ The idea behind these labels is to make it easy to find things that are actually
   * **Router**
   * ...
 * **Miscellaneous** - These are per project and might be useful for further organization but should be kept to a minimum as well.
-  * **Good for New Contributors** - What it says on the tin. In theory this helps new people find stuff to work on. (Do we have evidence that people are paying attention to this? If not, it's just noise.)
+  * **good first issue** - What it says on the tin. This helps new people find stuff to work on, because [GitHub actively promotes it](https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels/) and [initializes new repositories with that label](https://help.github.com/articles/about-labels/#using-default-labels).
 
 ## Other Notes
 
